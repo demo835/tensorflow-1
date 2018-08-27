@@ -52,4 +52,4 @@ Still working on that.
 #### Also, please include the instructions necessary to:
 
 #### Run your example.
-The LSTM NN included in this project requires python, tensorflow, and Keras installed on your computer. Enter a terminal and browse to the project folder. Type main.py and press enter. The script will take a few minutes to finish one cycle (epoch). It will likely take hours or days to complete all recommended epochs.
+The LSTM NN included in this project requires an internet connection to access the text trainer file, as well as python, tensorflow, and Keras installed on your computer. Enter a terminal and browse to the project folder. Type main.py and press enter. The script will take a few minutes to finish one cycle (epoch). It will likely take hours or days to complete all recommended epochs.
